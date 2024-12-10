@@ -1,4 +1,4 @@
-let words = [
+const words = [
   {
     word: "evident",
     hint: "clearly revealed to the mind or the senses or judgment"

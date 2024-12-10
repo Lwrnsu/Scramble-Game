@@ -7,10 +7,10 @@ hintText = document.querySelector(".hint span"),
 timeText = document.querySelector(".time b"),
 inputField = document.querySelector("input"),
 refreshBtn = document.querySelector(".refresh-word"),
-checkBtn = document.querySelector(".check-word");
-contentBox = document.querySelector(".container .content");
-startArea = document.querySelector(".startArea");
-scoreArea = document.querySelector(".score");
+checkBtn = document.querySelector(".check-word"),
+contentBox = document.querySelector(".container .content"),
+startArea = document.querySelector(".startArea"),
+scoreArea = document.querySelector(".score"),
 modalContent = document.querySelector(".modal-content");
 
 var modal = document.getElementById("myModal");
